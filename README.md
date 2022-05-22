@@ -1,5 +1,5 @@
-## Hi, I’m @maswerdna 👋👋👋
-_That moment when you realize that maswerdna is "andrew sam" spelt backwards. :winks:_
+![Header](./github-header-image.png)
+_That moment when you realize that maswerdna is "andrew sam" spelt backwards. :winks: 👋👋👋_
 
 Here you would learn a bit about the simple and the complex stuffs I've dipped my hands into over the past 6 years as a software developer. My contributions, my passion and my aspirations.
 
@@ -51,7 +51,7 @@ Here you would learn a bit about the simple and the complex stuffs I've dipped m
   </a>
 </p>
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?maswerdna" frameborder="0"></iframe>
+<br />
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=maswerdna)](https://github.com/gazf/github-readme-twitter)
 
