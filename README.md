@@ -1,4 +1,5 @@
 ![Header](./github-header-image.png)
+
 _That moment when you realize that maswerdna is "andrew sam" spelt backwards. :winks: 👋👋👋_
 
 Here you would learn a bit about the simple and the complex stuffs I've dipped my hands into over the past 6 years as a software developer. My contributions, my passion and my aspirations.
