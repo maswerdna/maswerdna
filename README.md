@@ -12,6 +12,8 @@ Here you would learn a bit about the simple and the complex stuffs I've dipped m
 ### Mas on GitHub
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maswerdna)](https://git.io/streak-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maswerdna&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 👀 I’m interested in
 <p align="left">
     <img src="src/languages/js.svg" alt="JavaScript" style="vertical-align:top margin:6px 24px">
@@ -32,6 +34,9 @@ Here you would learn a bit about the simple and the complex stuffs I've dipped m
   <a href="https://stackoverflow.com/maswerdna">
     <img src="src/social/stackoverflow.svg" alt="Stackoverflow" style="vertical-align:top margin:6px 24px">
   </a>
+  <a href="https://dev.to/maswerdna">
+    <img src="src/blogs/devto.svg" alt="Stackoverflow" style="vertical-align:top margin:6px 24px">
+  </a>
   <a href="https://linkedin.com/in/maswerdna">
     <img src="src/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top margin:6px 24px">
   </a>
@@ -45,6 +50,10 @@ Here you would learn a bit about the simple and the complex stuffs I've dipped m
     <img src="src/social/gmail.svg" alt="Gmail" style="vertical-align:top margin:6px 24px">
   </a>
 </p>
+
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?maswerdna" frameborder="0"></iframe>
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=maswerdna)](https://github.com/gazf/github-readme-twitter)
 
 <!---
 maswerdna/maswerdna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
