@@ -8,8 +8,10 @@ Here you would learn a bit about the simple and the complex stuffs I've dipped m
 <br />
 
 ## 👀 I’m interested in
-<img src="src/languages/js.svg" alt="JavaScript" style="vertical-align:top margin:6px 24px">
-<img src="src/languages/php.svg" alt="PHP" style="vertical-align:top margin:6px 24px">
+<p align="left">
+    <img src="src/languages/js.svg" alt="JavaScript" style="vertical-align:top margin:6px 24px">
+    <img src="src/languages/php.svg" alt="PHP" style="vertical-align:top margin:6px 24px">
+</p>
 <br />
 
 ## 🌱 I build stuffs with
