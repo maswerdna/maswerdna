@@ -1,20 +1,15 @@
 ## Hi, I’m @maswerdna 👋👋👋
-_That moment when you realize that maswerdna is "sam andrew" spelt backwards. :winks:_
+_That moment when you realize that maswerdna is "andrew sam" spelt backwards. :winks:_
 
 Here you would learn a bit about the simple and the complex stuffs I've dipped my hands into over the past 6 years as a software developer. My contributions, my passion and my aspirations.
 
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Open Source JavaScript and PHP projects
----
-<br />
 <br />
 
 ## 👀 I’m interested in
 <img src="src/languages/js.svg" alt="JavaScript" style="vertical-align:top margin:6px 24px">
 <img src="src/languages/php.svg" alt="PHP" style="vertical-align:top margin:6px 24px">
-
----
-<br />
 <br />
 
 ## 🌱 I build stuffs with
@@ -25,9 +20,6 @@ Here you would learn a bit about the simple and the complex stuffs I've dipped m
     <img src="src/frameworks/laravel.svg" alt="Laravel" style="vertical-align:top margin:6px 24px">
     <img src="src/frameworks/phonegap.svg" alt="PhoneGap" style="vertical-align:top margin:6px 24px">
 </p>
-
----
-<br />
 <br />
 
 ## 📫 You can reach me elsewhere
@@ -48,9 +40,6 @@ Here you would learn a bit about the simple and the complex stuffs I've dipped m
     <img src="src/social/gmail.svg" alt="Gmail" style="vertical-align:top margin:6px 24px">
   </a>
 </p>
-
----
-<br />
 <br />
 
 <!---
