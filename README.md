@@ -1,16 +1,16 @@
 ## Hi, I’m @maswerdna 👋👋👋
 _That moment when you realize that maswerdna is "andrew sam" spelt backwards. :winks:_
 
+Here you would learn a bit about the simple and the complex stuffs I've dipped my hands into over the past 6 years as a software developer. My contributions, my passion and my aspirations.
+
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on Open Source JavaScript and PHP projects
+
 ### Mas on Stackoverflow
 [![SamAndrew StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/4570202)](https://stackoverflow.com/users/4570202/maswerdna)
 
 ### Mas on GitHub
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maswerdna)](https://git.io/streak-stats)
-
-Here you would learn a bit about the simple and the complex stuffs I've dipped my hands into over the past 6 years as a software developer. My contributions, my passion and my aspirations.
-
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on Open Source JavaScript and PHP projects
 
 ## 👀 I’m interested in
 <p align="left">
